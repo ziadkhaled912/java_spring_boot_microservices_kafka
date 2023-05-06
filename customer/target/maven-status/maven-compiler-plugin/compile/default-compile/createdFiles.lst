@@ -1,0 +1,8 @@
+com/ziadDev/app/services/OfferService.class
+com/ziadDev/app/repository/OfferRepository.class
+com/ziadDev/app/models/Offer$OfferBuilder.class
+com/ziadDev/app/models/OfferItem$OfferItemBuilder.class
+com/ziadDev/app/models/OfferItem.class
+com/ziadDev/app/Main.class
+com/ziadDev/app/models/Offer.class
+com/ziadDev/app/controllers/OfferController.class
